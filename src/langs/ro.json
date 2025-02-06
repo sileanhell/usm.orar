@@ -1,0 +1,19 @@
+{
+  "settings": "Setări",
+  "monday": "Luni",
+  "tuesday": "Marți",
+  "wednesday": "Miercuri",
+  "thursday": "Joi",
+  "friday": "Vineri",
+  "saturday": "Sâmbătă",
+  "sunday": "Duminică",
+  "EF": "Educația fizică",
+  "PHP": "Dezvoltare WEB avansată cu PHP",
+  "CNMO": "Calcul numeric și metode de optimizare",
+  "PSI": "Proiectarea Sistemelor Informatice",
+  "SGBD": "Sisteme de gestiune a bazelor de date",
+  "GA": "Grafică şi animație 3D",
+  "WR": "Dezvoltarea interfețelor cu React.js",
+  "CV": "Containerizare și virtualizare",
+  "SF": "Dezvoltarea de aplicații cu Spring Framework"
+}
