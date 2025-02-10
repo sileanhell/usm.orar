@@ -23,7 +23,7 @@ export function useProgramHook(): { program: ProgramType[] } {
           {
             id: getLessonId(1),
             professor: getLessonId(1) === "GA" ? "D. Pugaci" : "O. Ciornei",
-            room: getLessonId(1) === "GA" ? "423/4" : "218/4a",
+            room: getLessonId(1) === "GA" ? "423/4" : "145a/4",
             type: "lab",
             week: getLessonId(1) === "GA" ? "imp" : null,
           },
